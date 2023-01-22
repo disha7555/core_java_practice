@@ -1,0 +1,3 @@
+no name source destination fare
+1 karnavati ahmedabad baroda 45
+2 shatabdi mumbai b 67
